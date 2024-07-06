@@ -1,0 +1,7 @@
+
+charset, Shift_JIS
+type,ghost
+name,–²‚Ý‚é"‚¾‚ê‚©‚³‚ñ"‚ÌŽÀŒ±
+directory,The Dreaming SOMEONE's Experiment
+
+refresh,0

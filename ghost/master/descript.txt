@@ -1,0 +1,13 @@
+charset,Shift_JIS
+
+craftman,Sakasa Sankaku
+craftmanw,‹t» QŠp
+craftmanurl,https://invertedtriangle358.github.io/ghost/top.html
+
+name,–²‚İ‚é"‚¾‚ê‚©‚³‚ñ"‚ÌÀŒ±
+type,ghost
+
+sakura.name,‚¾‚ê‚©‚³‚ñ
+kero.name,‚Ç‚­‚ë‚³‚ñ
+
+shiori,satori.dll
