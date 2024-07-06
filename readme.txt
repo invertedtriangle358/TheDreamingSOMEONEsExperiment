@@ -28,11 +28,11 @@
 
 ○制作
 　逆砂 参角
-　https://invertedtriangle358.github.io/
+　https://invertedtriangle358.github.io/ghost/top.html
 
 〇原作者/原案
 　ＭＭＭ
-　https://mmm06090609.studio.site/
+　https://mmm06090609.studio.site/1
 
 
 
