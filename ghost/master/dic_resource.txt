@@ -1,37 +1,25 @@
-ƒŠƒ\[ƒX
 
-ƒLƒƒƒvƒVƒ‡ƒ“‚È‚Ç‚Í‚±‚¿‚ç‚ğQÆ‚Ì‚±‚Æ
-http://disc2.s56.xrea.com/manual/list_shiori_resource.htm
+ï¼ƒsstpãªã©ã§%usernameãŒæŒ‡å®šã•ã‚ŒãŸã¨ãã«å¿…è¦
 
-homeurl‚Ídic_networkQÆ
-ˆÈ‰º‚Í—¢X‚Å‚Ì‚æ‚­‚ ‚éusername‚Ìİ’è‚Æportal/recommend—á
+ï¼ username
+ï¼ˆãƒ¦ãƒ¼ã‚¶åï¼‰
 
 
 
-”sstp‚È‚Ç‚Å%username‚ªw’è‚³‚ê‚½‚Æ‚«‚É•K—v
+ï¼ƒcaptionã¨visibleã®æŒ‡å®š
 
-—username
-iƒ†[ƒU–¼j
-
-
-
-”caption‚Ævisible‚Ìw’è
-
-—recommendrootbutton.caption
-–{‘Ì‘¤‚¨‚·‚·‚ß‚Ì–¼‘O
+ï¼ recommendrootbutton.caption
+æœ¬ä½“å´ãŠã™ã™ã‚ã®åå‰
 
 
 
-”‚Ps–Ú‚ªƒTƒCƒg–¼
-”‚Qs–Ú‚ªƒWƒƒƒ“ƒvæURL
-”‚Rs–Ú‚ªƒoƒi[URLiÈ—ª‰Âj
-”‚Ss–ÚˆÈ~‚ÍƒWƒƒƒ“ƒv‚É•\¦‚³‚ê‚é‰ï˜b•¶iÈ—ª‰Âj
-”ã‚©‚ç‡‚É•\¦‚³‚ê‚é‚Ì‚Åurl‚Ì‹LÚ«‘‚Í‚Ğ‚Æ‚Â‚É‚Ü‚Æ‚ß‚½‚Ù‚¤‚ª–³“ï
-”sakura.recommendsites,kero.recommendsites‚à“¯—l‚É‹Lq
+ï¼ƒï¼‘è¡Œç›®ãŒã‚µã‚¤ãƒˆå
+ï¼ƒï¼’è¡Œç›®ãŒã‚¸ãƒ£ãƒ³ãƒ—å…ˆURL
+ï¼ƒï¼“è¡Œç›®ãŒãƒãƒŠãƒ¼URLï¼ˆçœç•¥å¯ï¼‰
+ï¼ƒï¼”è¡Œç›®ä»¥é™ã¯ã‚¸ãƒ£ãƒ³ãƒ—æ™‚ã«è¡¨ç¤ºã•ã‚Œã‚‹ä¼šè©±æ–‡ï¼ˆçœç•¥å¯ï¼‰
+ï¼ƒä¸Šã‹ã‚‰é †ã«è¡¨ç¤ºã•ã‚Œã‚‹ã®ã§urlã®è¨˜è¼‰è¾æ›¸ã¯ã²ã¨ã¤ã«ã¾ã¨ã‚ãŸã»ã†ãŒç„¡é›£
+ï¼ƒsakura.recommendsites,kero.recommendsitesã‚‚åŒæ§˜ã«è¨˜è¿°
 
-–sakura.portalsites
-F”z•zŒ³
-‹tQŠp‹óŠÔ¤
+ï¼Šsakura.portalsites
+ï¼šé€†å‚è§’ç©ºé–“â–½
 https://invertedtriangle358.github.io/ghost/top.html
-ƒS[ƒXƒgì¬“ü–å
-http://ghostmaker.vs.land.to/
