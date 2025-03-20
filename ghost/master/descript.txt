@@ -1,14 +1,15 @@
+
 charset,Shift_JIS
 
-craftman,Sakasa Sankaku
-craftmanw,‹t» QŠp
+craftman,invertedtriangle358
+craftmanw,é€†ç ‚ å‚è§’
 craftmanurl,https://invertedtriangle358.github.io/ghost/top.html
 homeurl,https://raw.githubusercontent.com/invertedtriangle358/TheDreamingSOMEONEsExperiment/main/
 
-name,–²‚İ‚é"‚¾‚ê‚©‚³‚ñ"‚ÌÀŒ±
+name,å¤¢ã¿ã‚‹"ã ã‚Œã‹ã•ã‚“"ã®å®Ÿé¨“
 type,ghost
 
-sakura.name,‚¾‚ê‚©‚³‚ñ
-kero.name,‚Ç‚­‚ë‚³‚ñ
+sakura.name,ã ã‚Œã‹ã•ã‚“
+kero.name,ã©ãã‚ã•ã‚“
 
 shiori,satori.dll
