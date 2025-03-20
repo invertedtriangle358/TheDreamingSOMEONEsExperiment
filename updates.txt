@@ -1,5 +1,5 @@
 charset,UTF-8
-file,ghost/master/descript.txt6257c3e47e3869005239ae27bc8576fdsize=346date=2012-12-21T00:00:00
+file,ghost/master/descript.txt8229e07e6bcdae31478498f32cdbf79asize=378date=2012-12-21T00:00:00
 file,ghost/master/dic_advanced.txt2c3371b5a4d2c5e5133a563ffd71c6f0size=2956date=2012-12-21T00:00:00
 file,ghost/master/dic_base.txt6ea7109b4b5cf460d40a3ab9b5e5870bsize=1296date=2012-12-21T00:00:00
 file,ghost/master/dic_network.txt05fd25e23681854eacdae41b4e2d8cd0size=696date=2012-12-21T00:00:00
