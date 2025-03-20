@@ -3,7 +3,7 @@ file,ghost/master/descript.txt8229e07e6bcdae31478498f32cdbf79asize=378date=20
 file,ghost/master/dic_advanced.txt5dbe61f9ec08012ef11d59b78c6d7b9fsize=3494date=2012-12-21T00:00:00
 file,ghost/master/dic_base.txt6ea7109b4b5cf460d40a3ab9b5e5870bsize=1296date=2012-12-21T00:00:00
 file,ghost/master/dic_network.txt05fd25e23681854eacdae41b4e2d8cd0size=696date=2012-12-21T00:00:00
-file,ghost/master/dic_resource.txt5348b1179569d51ea7d47aff2ad6c823size=661date=2012-12-21T00:00:00
+file,ghost/master/dic_resource.txt2926f025b6d912d5739ddad332b4f427size=658date=2012-12-21T00:00:00
 file,ghost/master/dic_talk.txt10a19362fa3315a8a4b622407a2e9749size=12863date=2012-12-21T00:00:00
 file,ghost/master/satori.dllc18f7575f7ad95fd9f0d7933b2347653size=186880date=2012-12-21T00:00:00
 file,ghost/master/satori_conf.txt36b65ab733c79fc2e428d1d458d686b6size=317date=2012-12-21T00:00:00
