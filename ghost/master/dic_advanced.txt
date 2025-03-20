@@ -1,182 +1,151 @@
-›ƒŠƒXƒg
 
-ƒR[ƒ‹/ƒVƒFƒ‹/Å¬‰»/ŽžŠÔƒWƒƒƒ“ƒv/‘I‘ðŽ}•ú’u/ƒT[ƒtƒBƒXƒŠƒXƒgƒA/‚³‚í‚è/ƒCƒ“ƒXƒg[ƒ‹/ŠJ”­/ŽžŒv‡‚í‚¹/ƒ[ƒ‹ƒ`ƒFƒbƒN/ƒwƒbƒhƒ‰ƒCƒ“ƒZƒ“ƒX/ƒL[ƒvƒŒƒX/ƒlƒbƒgƒ[ƒNƒwƒr[
+ï¼ƒã‚³ãƒ¼ãƒ«é–¢ä¿‚
+ï¼ŠOnGhostCalled
+ï¼žOnBoot
 
-‚«‚Ì‚±‚Ç‚è‚Ó‘¼‚¢‚ë‚¢‚ëÈ—ªB
+ï¼ŠOnGhostCalling
+ï¼šï¼ˆï¼²ï¼ï¼‰ãŒå¤¢ã«ã§ã¦ãã‚‹
 
+ï¼ŠOnGhostCallComplete
+ï¼šï¼ˆï¼²ï¼ï¼‰ãŒç¾ã‚ŒãŸ
 
+ï¼ŠOnOtherGhostClosed
+ï¼šï¼ˆï¼²ï¼ï¼‰ãŒã©ã“ã‹ã¸æ¶ˆãˆãŸ
 
+ï¼ŠOnOtherGhostChanged
+ï¼ˆï¼²ï¼ï¼‰çµ‚äº†ã€ï¼ˆï¼²ï¼‘ï¼‰èµ·å‹•
 
-”ƒR[ƒ‹ŠÖŒW
 
-–OnGhostCalled
-„OnBoot
+ï¼ƒã‚·ã‚§ãƒ«
+ï¼ŠOnShellChanging
+ï¼ƒï¼šï¼ˆï¼²ï¼ï¼‰ã«ç€æ›¿ãˆã¾ã™
 
-–OnGhostCalling
-Fi‚q‚Oj‚ª–²‚É‚Å‚Ä‚­‚é
+ï¼ŠOnShellChanged
+ï¼ƒï¼šï¼ˆï¼²ï¼‘ï¼‰ã‹ã‚‰ç€æ›¿ãˆã¾ã—ãŸ
 
-–OnGhostCallComplete
-Fi‚q‚Oj‚ªŒ»‚ê‚½
 
-–OnOtherGhostClosed
-Fi‚q‚Oj‚ª‚Ç‚±‚©‚ÖÁ‚¦‚½
+ï¼ƒæœ€å°åŒ–
+ï¼ŠOnWindowStateRestore
+ï¼šæœ€å°åŒ–ã‹ã‚‰å¾©å¸°
 
-–OnOtherGhostChanged
-i‚q‚OjI—¹Ai‚q‚Pj‹N“®
+ï¼ŠOnWindowStateMinimize
+ï¼šæœ€å°åŒ–ã€‚(ï¼³ï¼³ï¼°ã§ã®ã¿ãƒˆãƒ¼ã‚¯è¡¨ç¤º)
 
 
+ï¼ƒæ™‚é–“ã‚¤ãƒ™ãƒ³ãƒˆ
+ï¼ƒã¨ã‚Šã‚ãˆãšã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆã—ã¦ãŠãã¾ã™
+ï¼ƒï¼ŠOnSecondChange
+ï¼ƒï¼ŠOnMinuteChange
 
-”ƒVƒFƒ‹
 
-–OnShellChanging
-”Fi‚q‚Oj‚É’…‘Ö‚¦‚Ü‚·
+ï¼ƒé¸æŠžæžæ”¾ç½®
+ï¼ŠOnChoiceTimeout
+ï¼šé¸æŠžãŒã‚¿ã‚¤ãƒ ã‚¢ã‚¦ãƒˆã—ã¾ã—ãŸ
 
-–OnShellChanged
-”Fi‚q‚Pj‚©‚ç’…‘Ö‚¦‚Ü‚µ‚½
 
+ï¼ƒã‚µãƒ¼ãƒ•ã‚£ã‚¹ã‚¤ãƒ™ãƒ³ãƒˆ
+ï¼ƒã¨ã‚Šã‚ãˆãšã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆã—ã¦ãŠãã¾ã™
+ï¼ƒï¼ŠOnSurfaceRestore
+ï¼ƒï¼ˆï¼²ï¼ï¼‰ï¼æœ¬ä½“å´ã‚µãƒ¼ãƒ•ã‚£ã‚¹ç•ªå·ã€ï¼ˆï¼²ï¼‘ï¼‰ï¼ç›¸æ–¹å´ã‚µãƒ¼ãƒ•ã‚£ã‚¹ç•ªå·
+ï¼ƒã‚µãƒ¼ãƒ•ã‚£ã‚¹æˆ»ã—é–¢ä¿‚ãŒæœ‰åŠ¹ãªã‚‰ä½¿ã†æ©Ÿä¼šãªã—
 
 
-”Å¬‰»
+ï¼ƒã•ã‚ã‚Šåå¿œ
+ï¼ƒã¨ã‚Šã‚ãˆãšã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆã—ã¦ãŠãã¾ã™
+ï¼ƒï¼ŠOnMouseMove
+ï¼ƒï¼ŠOnMouseWheel
+ï¼ƒåŸºæœ¬çš„ã«ï¼žï¼ˆï¼²ï¼“ï¼‰ï¼ˆï¼²ï¼”ï¼‰ãªã§ã‚‰ã‚Œã€ã“ã‚ã“ã‚ã¨ã„ã£ãŸåˆ†å²
+ï¼ƒï¼ˆï¼²ï¼“ï¼‰ã¯0/1ï¼ˆæœ¬ä½“ã¾ãŸã¯ç›¸æ–¹ï¼‰ã€ï¼ˆï¼²ï¼”ï¼‰ã¯å½“ã‚Šåˆ¤å®šã®åå‰
 
-–OnWindowStateRestore
-FÅ¬‰»‚©‚ç•œ‹A
 
-–OnWindowStateMinimize
-FÅ¬‰»B(‚r‚r‚o‚Å‚Ì‚Ýƒg[ƒN•\Ž¦)
+ï¼ƒã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
+ï¼ƒï¼ˆï¼²ï¼ï¼‰ï¼è­˜åˆ¥å­ã¾ãŸã¯å¤±æ•—ç†ç”±ã¾ãŸã¯acceptå…ˆ
+ï¼ƒï¼ˆï¼²ï¼‘ï¼‰åå‰ã€€ï¼ˆï¼²ï¼’ï¼‰ãƒãƒ«ãƒ¼ãƒ³ã¤ãã‚´ãƒ¼ã‚¹ãƒˆã®ãƒãƒ«ãƒ¼ãƒ³å
+ï¼ƒè­˜åˆ¥å­ï¼shell/ghost/balloon/plugin/headline/supplement/ghost with balloon/shell with balloon
+ï¼ƒ
 
+ï¼ŠOnInstallBegin
+ï¼šã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«é–‹å§‹
 
+ï¼ŠOnInstallComplete
+ï¼šã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«å®Œäº†
 
-”ŽžŠÔƒCƒxƒ“ƒg
+ï¼ŠOnInstallFailure
+ï¼šã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«å¤±æ•—
 
-”‚Æ‚è‚ ‚¦‚¸ƒRƒƒ“ƒgƒAƒEƒg‚µ‚Ä‚¨‚«‚Ü‚·
-”–OnSecondChange
-”–OnMinuteChange
+ï¼ŠOnInstallRefuse
+ï¼šaccepté•ã„ã«ã‚ˆã‚Šã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«å¤±æ•—
 
 
+ï¼ƒé–‹ç™ºé–¢ä¿‚
+ï¼ŠOnUpdatedataCreating
+ï¼š[ã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ä½œæˆé–‹å§‹]
 
-”‘I‘ðŽ}•ú’u
-–OnChoiceTimeout
-F‘I‘ð‚ªƒ^ƒCƒ€ƒAƒEƒg‚µ‚Ü‚µ‚½
+ï¼ŠOnUpdatedataCreated
+ï¼š[ã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ä½œæˆå®Œäº†]
 
+ï¼ƒï¼ˆï¼²ï¼ï¼‰ï¼åå‰ã€ï¼ˆï¼²ï¼‘ï¼‰ï¼ãƒ•ã‚¡ã‚¤ãƒ«åã€ï¼ˆï¼²ï¼’ï¼‰ï¼è­˜åˆ¥å­
 
+ï¼ŠOnNarCreating
+ï¼š[Narã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ä½œæˆé–‹å§‹]
 
-”ƒT[ƒtƒBƒXƒCƒxƒ“ƒg
+ï¼ŠOnNarCreated
+ï¼š[Narã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ä½œæˆå®Œäº†]
 
-”‚Æ‚è‚ ‚¦‚¸ƒRƒƒ“ƒgƒAƒEƒg‚µ‚Ä‚¨‚«‚Ü‚·
-”–OnSurfaceRestore
-”i‚q‚Oj–{‘Ì‘¤ƒT[ƒtƒBƒX”Ô†Ai‚q‚Pj‘Š•û‘¤ƒT[ƒtƒBƒX”Ô†
-”ƒT[ƒtƒBƒX–ß‚µŠÖŒW‚ª—LŒø‚È‚çŽg‚¤‹@‰ï‚È‚µ
 
+ï¼ƒæ™‚è¨ˆåˆã‚ã›
+ï¼ŠOnSNTPBegin
+ï¼šæ™‚è¨ˆåˆã‚ã›é–‹å§‹
 
+ï¼ŠOnSNTPCompare
+ï¼šæ™‚è¨ˆåˆã‚ã›æŽ¥ç¶š
 
-”‚³‚í‚è”½‰ž
+ï¼ŠOnSNTPCorrect
+ï¼šæ™‚è¨ˆåˆã‚ã›å®Œäº†
 
-”‚Æ‚è‚ ‚¦‚¸ƒRƒƒ“ƒgƒAƒEƒg‚µ‚Ä‚¨‚«‚Ü‚·
-”–OnMouseMove
-”–OnMouseWheel
-”Šî–{“I‚É„i‚q‚Rji‚q‚Sj‚È‚Å‚ç‚êA‚±‚ë‚±‚ë‚Æ‚¢‚Á‚½•ªŠò
-”i‚q‚Rj‚Í0/1i–{‘Ì‚Ü‚½‚Í‘Š•ûjAi‚q‚Sj‚Í“–‚è”»’è‚Ì–¼‘O
+ï¼ŠOnSNTPFailure
+ï¼šæ™‚è¨ˆåˆã‚ã›å¤±æ•—
 
 
+ï¼ƒãƒ¡ãƒ¼ãƒ«ãƒã‚§ãƒƒã‚¯ã‚¤ãƒ™ãƒ³ãƒˆ
+ï¼ŠOnBIFFBegin
+ï¼šãƒ¡ãƒ¼ãƒ«ãƒã‚§ãƒƒã‚¯é–‹å§‹
 
-”ƒCƒ“ƒXƒg[ƒ‹
-”i‚q‚OjŽ¯•ÊŽq‚Ü‚½‚ÍŽ¸”s——R‚Ü‚½‚Íacceptæ
-”i‚q‚Pj–¼‘O@i‚q‚Qjƒoƒ‹[ƒ“‚Â‚«ƒS[ƒXƒg‚Ìƒoƒ‹[ƒ“–¼
-”Ž¯•ÊŽqshell/ghost/balloon/plugin/headline/supplement/ghost with balloon/shell with balloon
-”
+ï¼ŠOnBIFFComplete
+ï¼šãƒ¡ãƒ¼ãƒ«ãƒã‚§ãƒƒã‚¯æˆåŠŸ
+ï¼ˆï¼²ï¼ï¼‰é€šã€ï¼ˆï¼²ï¼‘ï¼‰ãƒã‚¤ãƒˆã€æ–°ç€ã¯ï¼ˆï¼²ï¼“ï¼‰é€š
 
-–OnInstallBegin
-FƒCƒ“ƒXƒg[ƒ‹ŠJŽn
+ï¼ŠOnBIFF2Complete
+ï¼šå‰å›žãƒã‚§ãƒƒã‚¯æ™‚ã‹ã‚‰ã®æ–°ç€ãƒ¡ãƒ¼ãƒ«ãŒã‚ã‚Šã¾ã™
+ï¼ˆï¼²ï¼ï¼‰é€šã€ï¼ˆï¼²ï¼‘ï¼‰ãƒã‚¤ãƒˆ
 
-–OnInstallComplete
-FƒCƒ“ƒXƒg[ƒ‹Š®—¹
+ï¼ŠOnBIFFFailure
+ï¼šãƒ¡ãƒ¼ãƒ«ãƒã‚§ãƒƒã‚¯å¤±æ•—
 
-–OnInstallFailure
-FƒCƒ“ƒXƒg[ƒ‹Ž¸”s
+ï¼ƒï¼ˆï¼²ï¼ï¼‰ï¼å¤±æ•—ç†ç”±ã€timeout/kick/defect
 
-–OnInstallRefuse
-Facceptˆá‚¢‚É‚æ‚èƒCƒ“ƒXƒg[ƒ‹Ž¸”s
 
+ï¼ƒãƒ˜ãƒƒãƒ‰ãƒ©ã‚¤ãƒ³ã‚»ãƒ³ã‚¹ã‚¤ãƒ™ãƒ³ãƒˆ
+ï¼ŠOnHeadlinesenseBegin
+ï¼šãƒ˜ãƒƒãƒ‰ãƒ©ã‚¤ãƒ³ã‚»ãƒ³ã‚¹é–‹å§‹
 
+ï¼ŠOnHeadlinesense.OnFind
+ï¼šãƒ˜ãƒƒãƒ‰ãƒ©ã‚¤ãƒ³ã‚»ãƒ³ã‚¹ãŒå­˜åœ¨ã—ã¾ã™
 
-”ŠJ”­ŠÖŒW
+ï¼ƒï¼ˆï¼²ï¼’ï¼‰ï¼ãƒ•ã‚§ãƒ¼ã‚ºã€First/Fisrt and Last/Last/Next
 
-–OnUpdatedataCreating
-F[ƒAƒbƒvƒf[ƒgƒtƒ@ƒCƒ‹ì¬ŠJŽn]
+ï¼ŠOnHeadlinesenseComplete
+ï¼šãƒ˜ãƒƒãƒ‰ãƒ©ã‚¤ãƒ³ã‚»ãƒ³ã‚¹çµ‚äº†
 
-–OnUpdatedataCreated
-F[ƒAƒbƒvƒf[ƒgƒtƒ@ƒCƒ‹ì¬Š®—¹]
+ï¼ŠOnHeadlinesenseFailure
+ï¼šãƒ˜ãƒƒãƒ‰ãƒ©ã‚¤ãƒ³ã‚»ãƒ³ã‚¹å¤±æ•—
 
-”i‚q‚Oj–¼‘OAi‚q‚Pjƒtƒ@ƒCƒ‹–¼Ai‚q‚QjŽ¯•ÊŽq
+ï¼ƒï¼ˆï¼²ï¼ï¼‰ï¼çµ‚äº†ç†ç”±ã€no update/can't download/can't analyze
 
-–OnNarCreating
-F[NarƒA[ƒJƒCƒuì¬ŠJŽn]
 
-–OnNarCreated
-F[NarƒA[ƒJƒCƒuì¬Š®—¹]
+ï¼ƒä»–
+ï¼ŠOnKeyPress
+ï¼šï¼ˆï¼²ï¼ï¼‰
 
-
-
-”ŽžŒv‡‚í‚¹
-
-–OnSNTPBegin
-FŽžŒv‡‚í‚¹ŠJŽn
-
-–OnSNTPCompare
-FŽžŒv‡‚í‚¹Ú‘±
-
-–OnSNTPCorrect
-FŽžŒv‡‚í‚¹Š®—¹
-
-–OnSNTPFailure
-FŽžŒv‡‚í‚¹Ž¸”s
-
-
-
-”ƒ[ƒ‹ƒ`ƒFƒbƒNƒCƒxƒ“ƒg
-
-–OnBIFFBegin
-Fƒ[ƒ‹ƒ`ƒFƒbƒNŠJŽn
-
-–OnBIFFComplete
-Fƒ[ƒ‹ƒ`ƒFƒbƒN¬Œ÷
-i‚q‚Oj’ÊAi‚q‚PjƒoƒCƒgAV’…‚Íi‚q‚Rj’Ê
-
-–OnBIFF2Complete
-F‘O‰ñƒ`ƒFƒbƒNŽž‚©‚ç‚ÌV’…ƒ[ƒ‹‚ª‚ ‚è‚Ü‚·
-i‚q‚Oj’ÊAi‚q‚PjƒoƒCƒg
-
-–OnBIFFFailure
-Fƒ[ƒ‹ƒ`ƒFƒbƒNŽ¸”s
-
-”i‚q‚OjŽ¸”s——RAtimeout/kick/defect
-
-
-
-”ƒwƒbƒhƒ‰ƒCƒ“ƒZƒ“ƒXƒCƒxƒ“ƒg
-
-–OnHeadlinesenseBegin
-Fƒwƒbƒhƒ‰ƒCƒ“ƒZƒ“ƒXŠJŽn
-
-–OnHeadlinesense.OnFind
-Fƒwƒbƒhƒ‰ƒCƒ“ƒZƒ“ƒX‚ª‘¶Ý‚µ‚Ü‚·
-
-”i‚q‚QjƒtƒF[ƒYAFirst/Fisrt and Last/Last/Next
-
-–OnHeadlinesenseComplete
-Fƒwƒbƒhƒ‰ƒCƒ“ƒZƒ“ƒXI—¹
-
-–OnHeadlinesenseFailure
-Fƒwƒbƒhƒ‰ƒCƒ“ƒZƒ“ƒXŽ¸”s
-
-”i‚q‚OjI—¹——RAno update/can't download/can't analyze
-
-
-
-”‘¼
-
-–OnKeyPress
-Fi‚q‚Oj
-
-–OnNetworkHeavy
-F‚¤‚²‚©‚È‚¢(Network is heavy)
+ï¼ŠOnNetworkHeavy
+ï¼šã†ã”ã‹ãªã„(Network is heavy)
