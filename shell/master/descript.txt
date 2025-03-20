@@ -1,9 +1,9 @@
 charset,Shift_JIS
-craftman,SakasaSankaku
+craftman,invertedtriangle358
 id,
 name,master
 type,shell
-craftmanw,‹t» QŠp
+craftmanw,â€¹tÂÂ» Å½QÅ p
 craftmanurl,https://invertedtriangle358.github.io/
 
 
